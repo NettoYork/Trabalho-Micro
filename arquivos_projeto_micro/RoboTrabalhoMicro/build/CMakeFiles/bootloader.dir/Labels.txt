@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/esp/v5.2.2/esp-idf/examples/get-started/blink - Copia (3)/build/CMakeFiles/bootloader
+C:/esp/v5.2.2/esp-idf/examples/get-started/blink - Copia (3)/build/CMakeFiles/bootloader.rule
+C:/esp/v5.2.2/esp-idf/examples/get-started/blink - Copia (3)/build/CMakeFiles/bootloader-complete.rule
+C:/esp/v5.2.2/esp-idf/examples/get-started/blink - Copia (3)/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/esp/v5.2.2/esp-idf/examples/get-started/blink - Copia (3)/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/esp/v5.2.2/esp-idf/examples/get-started/blink - Copia (3)/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/esp/v5.2.2/esp-idf/examples/get-started/blink - Copia (3)/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/esp/v5.2.2/esp-idf/examples/get-started/blink - Copia (3)/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/esp/v5.2.2/esp-idf/examples/get-started/blink - Copia (3)/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/esp/v5.2.2/esp-idf/examples/get-started/blink - Copia (3)/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
